@@ -1,4 +1,4 @@
-<h1><b>Laravel Chart using larapex charts Library ConsoleTVs/Charts v6</b></h1>
+<h1><b>Laravel Chart using ConsoleTVs/Charts v6 Library </b></h1>
 
 ## About
 
